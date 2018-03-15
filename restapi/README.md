@@ -98,7 +98,7 @@
 ### 6.druid
 * https://github.com/druid-io/druid/
 
-### 7.还有许多需要去熟悉的
+### 7.
 
 ## 项目还需努力的方向
 
