@@ -19,3 +19,12 @@
 		git add file.java
 		git commit -m "add file.java"
 		git push -u origin master
+
+* add branch
+		* git push origin master:1.0
+
+
+* change branche
+		* git chekout -b 2.0
+		* git branch 2.0
+		* git checkout 2.0
