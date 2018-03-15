@@ -1,0 +1,5 @@
+com\che\rw\datasource\DynamicDataSourceHolder.class
+com\che\rw\annotation\Master.class
+com\che\rw\annotation\Slave.class
+com\che\rw\datasource\DynamicDataSource.class
+com\che\rw\aspect\DataSourceAspect.class
